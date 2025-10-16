@@ -1,0 +1,11 @@
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\bin\Debug\netcoreapp2.0\Task6.deps.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\bin\Debug\netcoreapp2.0\Task6.runtimeconfig.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\bin\Debug\netcoreapp2.0\Task6.runtimeconfig.dev.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\bin\Debug\netcoreapp2.0\Task6.dll
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\bin\Debug\netcoreapp2.0\Task6.pdb
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.csprojResolveAssemblyReference.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.csproj.CoreCompileInputs.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.AssemblyInfoInputs.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.AssemblyInfo.cs
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.dll
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42B\Week1\Worksheet132\Task6\obj\Debug\netcoreapp2.0\Task6.pdb

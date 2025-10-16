@@ -1,0 +1,11 @@
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task6\bin\Debug\Task6.exe.config
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task6\bin\Debug\Task6.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task6\bin\Debug\Task6.pdb
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task6\obj\Debug\Task6.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task6\obj\Debug\Task6.pdb
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\bin\Debug\Task6.exe.config
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\bin\Debug\Task6.exe
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\bin\Debug\Task6.pdb
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\obj\Debug\Task6.exe
+P:\Resources\Lecturers\Ranier Bonnici\SWD4.2B\Worksheet311\Task6\obj\Debug\Task6.pdb

@@ -1,0 +1,7 @@
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\bin\Debug\TaskD.exe.config
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\bin\Debug\TaskD.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\bin\Debug\TaskD.pdb
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\obj\Debug\TaskD.csproj.AssemblyReference.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\obj\Debug\TaskD.csproj.CoreCompileInputs.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\obj\Debug\TaskD.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskD\obj\Debug\TaskD.pdb

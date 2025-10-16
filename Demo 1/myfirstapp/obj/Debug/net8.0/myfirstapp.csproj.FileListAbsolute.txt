@@ -1,0 +1,14 @@
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\bin\Debug\net8.0\myfirstapp.exe
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\bin\Debug\net8.0\myfirstapp.deps.json
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\bin\Debug\net8.0\myfirstapp.runtimeconfig.json
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\bin\Debug\net8.0\myfirstapp.dll
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\bin\Debug\net8.0\myfirstapp.pdb
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.AssemblyInfo.cs
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.dll
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\refint\myfirstapp.dll
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.pdb
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\myfirstapp.genruntimeconfig.cache
+C:\Users\elain\source\repos\myfirstapp\myfirstapp\obj\Debug\net8.0\ref\myfirstapp.dll

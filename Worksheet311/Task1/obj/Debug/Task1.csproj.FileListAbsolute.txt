@@ -1,0 +1,5 @@
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task1\bin\Debug\Task1.exe.config
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task1\bin\Debug\Task1.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task1\bin\Debug\Task1.pdb
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task1\obj\Debug\Task1.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task1\obj\Debug\Task1.pdb

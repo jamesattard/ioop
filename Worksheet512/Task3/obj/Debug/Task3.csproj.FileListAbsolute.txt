@@ -1,0 +1,7 @@
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\bin\Debug\Task3.exe.config
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\bin\Debug\Task3.exe
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\bin\Debug\Task3.pdb
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\obj\Debug\Task3.exe
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\obj\Debug\Task3.pdb
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42C\Week5\Worksheet512\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache

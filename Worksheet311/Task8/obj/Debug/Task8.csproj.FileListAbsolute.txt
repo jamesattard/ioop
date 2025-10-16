@@ -1,0 +1,6 @@
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\bin\Debug\Task8.exe.config
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\bin\Debug\Task8.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\bin\Debug\Task8.pdb
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\obj\Debug\Task8.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet311\Task8\obj\Debug\Task8.pdb

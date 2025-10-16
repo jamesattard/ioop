@@ -1,0 +1,8 @@
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\bin\Debug\Que1.exe.config
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\bin\Debug\Que1.exe
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\bin\Debug\Que1.pdb
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\obj\Debug\Que1.csproj.AssemblyReference.cache
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\obj\Debug\Que1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\obj\Debug\Que1.csproj.CoreCompileInputs.cache
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\obj\Debug\Que1.exe
+C:\Users\dianeb\Documents\SWD4.2C\Selection Statements Switch\Que1\obj\Debug\Que1.pdb

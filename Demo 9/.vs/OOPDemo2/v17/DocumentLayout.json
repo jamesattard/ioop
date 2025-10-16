@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elain\\source\\repos\\Demo 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|c:\\users\\elain\\source\\repos\\demo 8\\oopdemo1\\oopdemo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|solutionrelative:oopdemo1\\oopdemo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|c:\\users\\elain\\source\\repos\\demo 8\\oopdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|solutionrelative:oopdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|c:\\users\\elain\\source\\repos\\demo 8\\oopdemo1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F1C55A-A9E8-4D38-9C4F-635C7175F4A6}|OOPDemo1\\OOPDemo2.csproj|solutionrelative:oopdemo1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPDemo2.csproj",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\OOPDemo2.csproj",
+              "RelativeDocumentMoniker": "OOPDemo1\\OOPDemo2.csproj",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\OOPDemo2.csproj",
+              "RelativeToolTip": "OOPDemo1\\OOPDemo2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T21:49:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "OOPDemo1\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\BankAccount.cs",
+              "RelativeToolTip": "OOPDemo1\\BankAccount.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:32:52.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "OOPDemo1\\Program.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Demo 8\\OOPDemo1\\Program.cs",
+              "RelativeToolTip": "OOPDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:31:47.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

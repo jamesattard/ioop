@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elain\\source\\repos\\Worksheet12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|c:\\users\\elain\\source\\repos\\worksheet12\\demo10\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E63FF93-5737-4103-B705-DBAB8FEC2E78}|Demo10\\Demo10.csproj|solutionrelative:demo10\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Program.cs",
+              "RelativeDocumentMoniker": "Demo10\\Program.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Program.cs",
+              "RelativeToolTip": "Demo10\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:17:59.509Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Product.cs",
+              "RelativeDocumentMoniker": "Demo10\\Product.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Product.cs",
+              "RelativeToolTip": "Demo10\\Product.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:02:11.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Furniture.cs",
+              "RelativeDocumentMoniker": "Demo10\\Furniture.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Furniture.cs",
+              "RelativeToolTip": "Demo10\\Furniture.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:10:21.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Food.cs",
+              "RelativeDocumentMoniker": "Demo10\\Food.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Food.cs",
+              "RelativeToolTip": "Demo10\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:12:10.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Electronics.cs",
+              "RelativeDocumentMoniker": "Demo10\\Electronics.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Electronics.cs",
+              "RelativeToolTip": "Demo10\\Electronics.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:08:18.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Clothing.cs",
+              "RelativeDocumentMoniker": "Demo10\\Clothing.cs",
+              "ToolTip": "C:\\Users\\elain\\source\\repos\\Worksheet12\\Demo10\\Clothing.cs",
+              "RelativeToolTip": "Demo10\\Clothing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:02:28.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\bin\Debug\Task3.exe.config
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\bin\Debug\Task3.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\bin\Debug\Task3.pdb
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\obj\Debug\Task3.exe
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\obj\Debug\Task3.pdb
+C:\Ranier\Subjects\OOP\Worksheets\Worksheet321\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache

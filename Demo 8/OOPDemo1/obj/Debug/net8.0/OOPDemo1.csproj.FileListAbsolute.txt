@@ -1,0 +1,14 @@
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\bin\Debug\net8.0\OOPDemo1.exe
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\bin\Debug\net8.0\OOPDemo1.deps.json
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\bin\Debug\net8.0\OOPDemo1.runtimeconfig.json
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\bin\Debug\net8.0\OOPDemo1.dll
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\bin\Debug\net8.0\OOPDemo1.pdb
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.AssemblyInfoInputs.cache
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.AssemblyInfo.cs
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.csproj.CoreCompileInputs.cache
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.dll
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\refint\OOPDemo1.dll
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.pdb
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\OOPDemo1.genruntimeconfig.cache
+C:\Users\elain\source\repos\OOPDemo1\OOPDemo1\obj\Debug\net8.0\ref\OOPDemo1.dll

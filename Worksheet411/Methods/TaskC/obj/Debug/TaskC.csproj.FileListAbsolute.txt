@@ -1,0 +1,7 @@
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\bin\Debug\TaskC.exe.config
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\bin\Debug\TaskC.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\bin\Debug\TaskC.pdb
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\obj\Debug\TaskC.csproj.AssemblyReference.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\obj\Debug\TaskC.csproj.CoreCompileInputs.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\obj\Debug\TaskC.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskC\obj\Debug\TaskC.pdb

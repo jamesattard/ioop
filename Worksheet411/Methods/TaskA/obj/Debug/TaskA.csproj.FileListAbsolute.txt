@@ -1,0 +1,8 @@
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\bin\Debug\TaskA.exe.config
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\bin\Debug\TaskA.exe
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\bin\Debug\TaskA.pdb
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\obj\Debug\TaskA.csproj.AssemblyReference.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\obj\Debug\TaskA.csproj.SuggestedBindingRedirects.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\obj\Debug\TaskA.csproj.CoreCompileInputs.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\obj\Debug\TaskA.exe
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskA\obj\Debug\TaskA.pdb

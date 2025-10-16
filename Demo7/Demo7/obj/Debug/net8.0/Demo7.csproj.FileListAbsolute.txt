@@ -1,0 +1,14 @@
+C:\Users\elain\source\repos\Demo7\Demo7\bin\Debug\net8.0\Demo7.exe
+C:\Users\elain\source\repos\Demo7\Demo7\bin\Debug\net8.0\Demo7.deps.json
+C:\Users\elain\source\repos\Demo7\Demo7\bin\Debug\net8.0\Demo7.runtimeconfig.json
+C:\Users\elain\source\repos\Demo7\Demo7\bin\Debug\net8.0\Demo7.dll
+C:\Users\elain\source\repos\Demo7\Demo7\bin\Debug\net8.0\Demo7.pdb
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.AssemblyInfoInputs.cache
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.AssemblyInfo.cs
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.csproj.CoreCompileInputs.cache
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.dll
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\refint\Demo7.dll
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.pdb
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\Demo7.genruntimeconfig.cache
+C:\Users\elain\source\repos\Demo7\Demo7\obj\Debug\net8.0\ref\Demo7.dll

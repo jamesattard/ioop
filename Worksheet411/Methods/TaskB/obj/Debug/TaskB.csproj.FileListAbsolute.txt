@@ -1,0 +1,15 @@
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\bin\Debug\TaskB.exe
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\bin\Debug\TaskB.pdb
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\obj\Debug\TaskB.csproj.SuggestedBindingRedirects.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\obj\Debug\TaskB.exe
+C:\Users\dianeb\Documents\SWD4.2C\Methods\TaskB\obj\Debug\TaskB.pdb
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\bin\Debug\TaskB.exe.config
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\bin\Debug\TaskB.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\bin\Debug\TaskB.pdb
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\obj\Debug\TaskB.csproj.AssemblyReference.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\obj\Debug\TaskB.csproj.CoreCompileInputs.cache
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\obj\Debug\TaskB.exe
+C:\Users\diane\Downloads\Methods (1)\Methods\TaskB\obj\Debug\TaskB.pdb

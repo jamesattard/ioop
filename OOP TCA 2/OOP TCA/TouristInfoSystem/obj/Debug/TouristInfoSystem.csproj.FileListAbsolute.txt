@@ -1,0 +1,7 @@
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\bin\Debug\TouristInfoSystem.exe.config
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\bin\Debug\TouristInfoSystem.exe
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\bin\Debug\TouristInfoSystem.pdb
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\obj\Debug\TouristInfoSystem.csproj.AssemblyReference.cache
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\obj\Debug\TouristInfoSystem.csproj.CoreCompileInputs.cache
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\obj\Debug\TouristInfoSystem.exe
+D:\Documents\MCAST\23-24\OOP\Solutions\OOP TCA\TouristInfoSystem\obj\Debug\TouristInfoSystem.pdb

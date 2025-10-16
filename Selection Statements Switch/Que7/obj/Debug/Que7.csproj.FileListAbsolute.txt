@@ -1,0 +1,8 @@
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\bin\Debug\Que7.exe.config
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\bin\Debug\Que7.exe
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\bin\Debug\Que7.pdb
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\obj\Debug\Que7.csproj.AssemblyReference.cache
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\obj\Debug\Que7.csproj.SuggestedBindingRedirects.cache
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\obj\Debug\Que7.csproj.CoreCompileInputs.cache
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\obj\Debug\Que7.exe
+C:\Users\dianeb\Downloads\OneDrive_2023-10-27\Selection Statements Switch\Que7\obj\Debug\Que7.pdb

@@ -1,0 +1,10 @@
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\bin\Debug\netcoreapp2.0\Task3.deps.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\bin\Debug\netcoreapp2.0\Task3.runtimeconfig.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\bin\Debug\netcoreapp2.0\Task3.runtimeconfig.dev.json
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\bin\Debug\netcoreapp2.0\Task3.dll
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\bin\Debug\netcoreapp2.0\Task3.pdb
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\obj\Debug\netcoreapp2.0\Task3.csproj.CoreCompileInputs.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\obj\Debug\netcoreapp2.0\Task3.AssemblyInfoInputs.cache
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\obj\Debug\netcoreapp2.0\Task3.AssemblyInfo.cs
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\obj\Debug\netcoreapp2.0\Task3.dll
+D:\OneDrive - Malta College of Arts, Science & Technology\Shared with Everyone\SWD42D\Week2\Worksheet221\Task3\obj\Debug\netcoreapp2.0\Task3.pdb

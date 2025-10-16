@@ -1,0 +1,5 @@
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\Worksheets\Worksheet133\Task2\bin\Debug\Task2.exe.config
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\Worksheets\Worksheet133\Task2\bin\Debug\Task2.exe
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\Worksheets\Worksheet133\Task2\bin\Debug\Task2.pdb
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\Worksheets\Worksheet133\Task2\obj\Debug\Task2.exe
+P:\4-National Diploma 2\SP S2 - Object Oriented Programming\Worksheets\Worksheet133\Task2\obj\Debug\Task2.pdb

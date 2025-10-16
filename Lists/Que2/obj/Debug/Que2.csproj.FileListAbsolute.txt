@@ -1,0 +1,8 @@
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\bin\Debug\Que2.exe.config
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\bin\Debug\Que2.exe
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\bin\Debug\Que2.pdb
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\obj\Debug\Que2.csproj.AssemblyReference.cache
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\obj\Debug\Que2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\obj\Debug\Que2.csproj.CoreCompileInputs.cache
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\obj\Debug\Que2.exe
+C:\Users\dianeb\Documents\4.2C\Lists\Que2\obj\Debug\Que2.pdb

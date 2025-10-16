@@ -1,0 +1,14 @@
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\bin\Debug\net8.0\Worksheet6.exe
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\bin\Debug\net8.0\Worksheet6.deps.json
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\bin\Debug\net8.0\Worksheet6.runtimeconfig.json
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\bin\Debug\net8.0\Worksheet6.dll
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\bin\Debug\net8.0\Worksheet6.pdb
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.AssemblyInfoInputs.cache
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.AssemblyInfo.cs
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.csproj.CoreCompileInputs.cache
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.dll
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\refint\Worksheet6.dll
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.pdb
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\Worksheet6.genruntimeconfig.cache
+C:\Users\elain\source\repos\Worksheet6\Worksheet6\obj\Debug\net8.0\ref\Worksheet6.dll
